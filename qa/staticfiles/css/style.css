@@ -1,0 +1,22 @@
+.grid{
+    margin: 0px!important;
+}
+.nav{
+    height: 80px;
+    background-color: red;
+}
+.qa-body{
+    height: calc(100vh - 80px);
+    background-color: yellow;
+
+}
+.word{
+    font-size: 50px;
+    font-family: 'Alfa Slab One', cursive;
+}
+.input{
+    width: 100%;
+}
+.wrongs{
+    background-color: green;
+}
